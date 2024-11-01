@@ -17,6 +17,12 @@ The repository consists of the following files:
 
        3. [RQ3]: Understanding when users are most active in submitting reviews can help identify peak engagement periods.
 
+       4. [RQ4]: Investigating whether users who spend more time using an application give higher or lower ratings
+
+       5. It is interesting to explore the top reviewers to gain insight into their demographic location, the quality of their reviews, and the 
+                                 applications they tend to  review most frequently.
+
+
 
  
  
