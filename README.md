@@ -21,8 +21,8 @@ The repository consists of the following files:
 
 			5. [RQ5]: It is interesting to explore the top reviewers to gain insight into their demographic location, the quality of their reviews, and the 
                                  applications they tend to  review most frequently.
-                            
-                        6. [RQ6]: The behavior of specific groups, specifically focusing on English and Spanish reviewers
+
+    6. [RQ6]: The behavior of specific groups, specifically focusing on English and Spanish reviewers
   
                         7. [RQ7]: Certainly, calculating probabilities and conducting statistical tests are essential skills for any data scientist. Let's calculate some 
                                   intriguing figures.
