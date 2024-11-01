@@ -2,8 +2,7 @@
 
 ## Steam Game Reviews Analysis
 
-git add desktop/images.jfif
-git commit -m "Add image to repository"
+![images](https://github.com/user-attachments/assets/6088a23c-fabf-41de-9577-adb757a339f2)
 
 ## Project Overview
 
