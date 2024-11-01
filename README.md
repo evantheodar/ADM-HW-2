@@ -27,7 +27,10 @@ The repository consists of the following files:
 
        8. [BONUS]
 
-       9. [Algorithmic Question]			  
+       9. [Algorithmic Question]
+
+2. __`functions.py`__:
+   > A python script which provides all the functions used in the `ADM_HW2_Full.ipynb` notebook.
  
  
 
