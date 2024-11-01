@@ -3,7 +3,7 @@
 
 ## Steam Game Reviews Analysis
 
-![steam1](https://github.com/user-attachments/assets/3584628a-2dbf-4c88-aeb5-b1a40df3eb9e)
+![68747470733a2f2f6d6d6f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30372f737465616d2d6c6f676f2d77656c636f6d652d62616e6e65722e6a7067](https://github.com/user-attachments/assets/ed80a61c-d593-4608-abfa-c43eb4258c5a)
 
 *The purpose of the project was to perform an Exploratory Data Analysis and answer below-mentioned research questions on a data collected from [Steam Reviews Dataset](https://www.kaggle.com/datasets/najzeko/steam-reviews-2021) (2021)* 
 
