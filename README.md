@@ -1,4 +1,5 @@
-# *ADM-HW-2*                          *GROUP - #6*
+# *ADM-HW-2*                
+*GROUP - #6*
 
 ## Steam Game Reviews Analysis
 
