@@ -19,14 +19,38 @@ The primary objective of this project is to uncover meaningful patterns and insi
 
 ## Dataset
 
-The dataset consists of **Steam game reviews** and includes the following key information:
+The dataset consists of **Steam game reviews** and includes the following attributes:
 
-- **Author**: Username of the reviewer.
-- **Game**: The title of the game being reviewed.
-- **Review Text**: Content of the review written by the user.
-- **Review Date**: Date of the review.
-- **Review Rating**: The rating given by the user (e.g., "positive" or "negative").
-- **Playtime**: The amount of time the reviewer has spent playing the game.
+- **Unnamed: 0**: Index column.
+- **app_id**: Unique identifier for each game on Steam.
+- **app_name**: Name of the game.
+- **review_id**: Unique identifier for each review.
+- **language**: Language in which the review was written.
+- **review**: Content of the review written by the user.
+- **timestamp_created**: Date and time when the review was created.
+- **timestamp_updated**: Date and time when the review was last updated.
+- **recommended**: Indicates whether the review recommends the game (e.g., True/False).
+- **votes_helpful**: Number of helpful votes received by the review.
+- **votes_funny**: Number of funny votes received by the review.
+- **weighted_vote_score**: Weighted score for the review based on votes.
+- **comment_count**: Number of comments on the review.
+- **steam_purchase**: Indicates whether the game was purchased on Steam.
+- **received_for_free**: Indicates whether the game was received for free.
+- **written_during_early_access**: Indicates if the review was written during early access.
+- **author.steamid**: Steam ID of the review author.
+- **author.num_games_owned**: Total number of games owned by the author.
+- **author.num_reviews**: Total number of reviews written by the author.
+- **author.playtime_forever**: Total playtime of the game in minutes.
+- **author.playtime_last_two_weeks**: Playtime in the last two weeks, in minutes.
+- **author.playtime_at_review**: Playtime at the time of the review, in minutes.
+- **author.last_played**: Timestamp of the last time the game was played by the author.
+- **year_month**: Year and month of the review (derived attribute).
+- **review_hour**: Hour of the day the review was posted (derived attribute).
+
+Each row in the dataset represents a unique review, capturing interactions between players and games.
+
+## Project Structure
+
 
 The dataset reflects a diverse collection of reviews, capturing unique interactions between players and games. Each row represents one review.
 
