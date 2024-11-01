@@ -2,6 +2,9 @@
 
 ## Steam Game Reviews Analysis
 
+git add desktop/images.jfif
+git commit -m "Add image to repository"
+
 ## Project Overview
 
 Video games have become a significant part of global culture, evolving from a pastime to an influential industry impacting technology and social interactions. Platforms like **Steam** play a central role, offering not only game distribution but also features like community forums, in-game chat, and cloud storage. Steam has fostered a vibrant community where users share their gaming experiences through reviews, providing insights into player preferences, criticisms, and trends in gaming.
