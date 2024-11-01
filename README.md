@@ -6,7 +6,7 @@
 
 Video games have become a significant part of global culture, evolving from a pastime to an influential industry impacting technology and social interactions. Platforms like **Steam** play a central role, offering not only game distribution but also features like community forums, in-game chat, and cloud storage. Steam has fostered a vibrant community where users share their gaming experiences through reviews, providing insights into player preferences, criticisms, and trends in gaming.
 
-As data scientists hired by a leading Game Development Company, our objective is to analyze these reviews and answer key research questions. Our findings will help the company understand what players value in a video game, leading to better design, marketing strategies, and ultimately a more engaging user experience.
+Our objective is to analyze these reviews and answer key research questions. Our findings will help understand what players value in a video game, leading to better design, marketing strategies, and ultimately a more engaging user experience.
 
 ## Objectives
 
