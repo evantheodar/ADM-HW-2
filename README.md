@@ -2,7 +2,7 @@
 
 ## Steam Game Reviews Analysis
 
-<![images](./steam1.jpg)
+<![images](./steam1.jpg)>
 
 ## Project Overview
 
