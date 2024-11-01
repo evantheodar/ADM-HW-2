@@ -2,7 +2,7 @@
 
 ## Steam Game Reviews Analysis
 
-<![images](./model/steam1.jpg)>
+![steam1](https://github.com/user-attachments/assets/3584628a-2dbf-4c88-aeb5-b1a40df3eb9e)
 
 ## Project Overview
 
