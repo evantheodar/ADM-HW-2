@@ -23,13 +23,14 @@ The repository consists of the following files:
                                     applications they tend to 
                                     review most frequently.
 
-                            6. [RQ6]: The behavior of specific groups, specifically focusing on English and Spanish reviewers
+                        6. [RQ6]: The behavior of specific groups, specifically focusing on English and Spanish reviewers
   
-      7. [RQ7]: Certainly, calculating probabilities and conducting statistical tests are essential skills for any data scientist. Let's calculate some intriguing figures.
+                        7. [RQ7]: Certainly, calculating probabilities and conducting statistical tests are essential skills for any data scientist. Let's calculate some 
+                                  intriguing figures.
   
-      8. [BONUS]
+                        8. [BONUS]
   
-      9. [Algorithmic Question] 
+                        9. [Algorithmic Question] 
  
 
       
