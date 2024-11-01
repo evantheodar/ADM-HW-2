@@ -10,10 +10,9 @@
 The repository consists of the following files:
 1. __`ADM_HW2_Full.ipynb`__:
        > A Jupyter notebook which provides the solutions to all research questions.
+   1. [RQ2]: Let's explore the dataset by analyzing the distribution of reviews across different applications.
 
-              1. [RQ1]: Exploratory Data Analysis (EDA)
-
-	      2. [RQ2]: Let's explore the dataset by analyzing the distribution of reviews across different applications.
+ 
  
 
       
