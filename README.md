@@ -7,7 +7,7 @@
 
 *The purpose of the project was to perform an Exploratory Data Analysis and answer below-mentioned research questions on a data collected from [Steam Reviews Dataset](https://www.kaggle.com/datasets/najzeko/steam-reviews-2021) (2021)* 
 
-The repository consists of the following files:
+The repository consists of the following file:
 1. __`main.ipynb`__:
        > A Jupyter notebook which provides the solutions to all research questions.
 
